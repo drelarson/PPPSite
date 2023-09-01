@@ -1,0 +1,759 @@
+[{
+  "_id": {
+    "$oid": "647e163d20ccf27367d6c4d3"
+  },
+  "firstName": "No",
+  "lastName": "Helper",
+  "userName": "Select",
+  "password": "none",
+  "userImage": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685984829490"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685984829490"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644185f087034f923f8a0a7d"
+  },
+  "firstName": "Andre",
+  "lastName": "Caron",
+  "userName": "dredre",
+  "password": "Maddie1",
+  "userImage": "dre.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682015728718"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682015728718"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6441863b87034f923f8a0a7f"
+  },
+  "firstName": "Kelci",
+  "lastName": "Fowler",
+  "userName": "kFowler",
+  "password": "piggies",
+  "userImage": "C:\\fakepath\\vwbus.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682015803681"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682015803681"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6442d183ebdd275f6ecdc00d"
+  },
+  "firstName": "Davina",
+  "lastName": "Walker",
+  "userName": "dWalker",
+  "password": "late",
+  "userImage": "C:\\fakepath\\redChucks.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682100611141"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682100611141"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645d2945ba6981d42b857900"
+  },
+  "firstName": "Michelle",
+  "lastName": "Metz",
+  "userName": "mMetz",
+  "password": "monkey",
+  "userImage": "shell.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683827013010"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683827013010"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6463e8caf071bcb4521a4dfd"
+  },
+  "firstName": "Genise",
+  "lastName": "Butler",
+  "userName": "gButler",
+  "password": "pieces",
+  "userImage": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684269258779"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684269258779"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64668488c1070acf5d8e09ce"
+  },
+  "firstName": "Holly",
+  "lastName": "Medina",
+  "userName": "HollyM",
+  "password": "purplePig",
+  "userImage": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684440200852"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684440200852"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64668698c1070acf5d8e0a60"
+  },
+  "firstName": "Leah",
+  "lastName": "Favorite",
+  "userName": "lFavorite",
+  "password": "flip",
+  "userImage": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684440728259"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684440728259"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646687efc1070acf5d8e0a62"
+  },
+  "firstName": "Amy",
+  "lastName": "Yeates",
+  "userName": "aYeates",
+  "password": "neil",
+  "userImage": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684441071006"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684441071006"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6466885908df2e215cffb182"
+  },
+  "firstName": "BJ",
+  "lastName": "Dooley",
+  "userName": "bDooley",
+  "password": "alex",
+  "userImage": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684441177662"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684441177662"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64668c51aed7fad849a239af"
+  },
+  "firstName": "Nancy",
+  "lastName": "Williams",
+  "userName": "nWilliams",
+  "password": "hello",
+  "userImage": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684442193231"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684442193231"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64668d4eaed7fad849a239b7"
+  },
+  "firstName": "Leslie",
+  "lastName": "Devine",
+  "userName": "lDevine",
+  "password": "dogs",
+  "userImage": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684442446015"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684442446015"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64668db2aed7fad849a239de"
+  },
+  "firstName": "Jill",
+  "lastName": "Connolly",
+  "userName": "jconnolly",
+  "password": "pete",
+  "userImage": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684442546329"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684442546329"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64668dfcaed7fad849a239f4"
+  },
+  "firstName": "Josie",
+  "lastName": "Graves",
+  "userName": "jGraves",
+  "password": "butt",
+  "userImage": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684442620672"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684442620672"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64668e1baed7fad849a23a08"
+  },
+  "firstName": "Eric",
+  "lastName": "Metz",
+  "userName": "eMetz",
+  "password": "bike",
+  "userImage": "eric.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684442651039"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684442651039"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64668e3baed7fad849a23a1d"
+  },
+  "firstName": "c",
+  "lastName": "Wheeler",
+  "userName": "cwheeler",
+  "password": "teach",
+  "userImage": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684442683965"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684442683965"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646b93ab7f96d79c155f922f"
+  },
+  "firstName": "Kim",
+  "lastName": "Crick",
+  "userName": "kCrick",
+  "password": "aussie",
+  "userImage": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684771755876"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684771755876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646b956f7f96d79c155f9271"
+  },
+  "firstName": "Ava",
+  "lastName": "Cale",
+  "userName": "aCale",
+  "password": "daughter",
+  "userImage": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684772207099"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684772207099"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646b97867f96d79c155f92e6"
+  },
+  "firstName": "Amanda",
+  "lastName": "Randolph",
+  "userName": "aRandolph",
+  "password": "elmo",
+  "userImage": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684772742084"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684772742084"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646b982a7f96d79c155f930d"
+  },
+  "firstName": "Alice",
+  "lastName": "Simmons",
+  "userName": "aSimmons",
+  "password": "mom",
+  "userImage": "grandma.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684772906692"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684772906692"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646b98677f96d79c155f9322"
+  },
+  "firstName": "Christina",
+  "lastName": "Larson",
+  "userName": "cLarson",
+  "password": "cousin",
+  "userImage": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684772967348"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684772967348"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646b98ae7f96d79c155f9341"
+  },
+  "firstName": "Samantha",
+  "lastName": "Connolly",
+  "userName": "sConnolly",
+  "password": "sammy",
+  "userImage": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684773038388"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684773038388"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646b99617f96d79c155f9360"
+  },
+  "firstName": "Snoopy",
+  "lastName": "Peanuts",
+  "userName": "sPeanuts",
+  "password": "charle",
+  "userImage": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684773217291"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684773217291"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646b9dda8678d79c34619c00"
+  },
+  "firstName": "Gary",
+  "lastName": "Baker",
+  "userName": "gBaker",
+  "password": "hairy",
+  "userImage": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684774362694"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684774362694"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646bab848678d79c34619e46"
+  },
+  "firstName": "Heather",
+  "lastName": "Witt",
+  "userName": "hWitt",
+  "password": "testing",
+  "userImage": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684777860129"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684777860129"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646babc58678d79c34619e53"
+  },
+  "firstName": "Chris",
+  "lastName": "Connolly",
+  "userName": "cConnolly",
+  "password": "husbandf",
+  "userImage": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684777925512"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684777925512"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646f8832543b555ed2658d75"
+  },
+  "firstName": "Karson",
+  "lastName": "Jackson",
+  "userName": "kJackson",
+  "password": "cooper",
+  "userImage": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685030962216"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685030962216"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646f88b1543b555ed2658d9f"
+  },
+  "firstName": "Cooper",
+  "lastName": "Jackson",
+  "userName": "cJackson",
+  "password": "horse",
+  "userImage": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685031089780"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685031089780"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646f8b939163198a2c74755e"
+  },
+  "firstName": "Jack",
+  "lastName": "Black",
+  "userName": "jBlack",
+  "password": "music",
+  "userImage": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685031827864"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685031827864"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6470e57584c73700e1fdeb1c"
+  },
+  "firstName": "Jerry",
+  "lastName": "Larson",
+  "userName": "daddio",
+  "password": "$2a$10$fApLwjVwHNvy4lG4v/5lROWvF/UxK43XMCAEY6b9eOcE5Nrc7sVU.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685120373482"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685120373482"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6470e8726a75b55b9d6d78d2"
+  },
+  "firstName": "Liz",
+  "lastName": "Larson",
+  "userName": "lLarson",
+  "password": "$2a$10$Np62TeFiqF91kaj6AkJT0eKTcJEsasBrgq7vvvawd6XadDLkASt0i",
+  "userImage": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685121138632"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685121138632"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6470fbf7edd04e692ecd309e"
+  },
+  "firstName": "Tom",
+  "lastName": "Larson",
+  "userName": "tLarson",
+  "password": "$2a$10$557n2i2VjdOcWo7bNbADj.2vxSoIXhoLuHMuuyJ2vGG3/5Rz4eRN.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685126135762"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685126135762"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6470ff4e2f0ca19e121b4b52"
+  },
+  "firstName": "Jack",
+  "lastName": "Spaz",
+  "userName": "spaz",
+  "password": "$2a$10$C35yIIfr/C5JliuxQ0bfEOyf7nvhrRWs5T4GMcOaBH63Hdcv3Q9T2",
+  "userImage": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685126990852"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685126990852"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647e130b20ccf27367d6c473"
+  },
+  "firstName": "Tanner",
+  "lastName": "Caron",
+  "userName": "tanman",
+  "password": "son",
+  "userImage": "tanner.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685984011912"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685984011912"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647f50ff4a11ef9fd7e88c64"
+  },
+  "firstName": "Sarah",
+  "lastName": "Caron",
+  "userName": "sCaron",
+  "password": "sonwife",
+  "userImage": "sarah.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1686065407283"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1686065407283"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64874c072b401a80b7231672"
+  },
+  "firstName": "Jill",
+  "lastName": "Connolly",
+  "userName": "jConnolly",
+  "password": "chipmonk",
+  "userImage": "jill.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1686588423824"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1686588423824"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648752a52b401a80b7231738"
+  },
+  "firstName": "Autumn",
+  "lastName": "Zaun",
+  "userName": "aZaun",
+  "password": "hawaii",
+  "userImage": "autumn.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1686590117279"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1686590117279"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648b28e088bd367f96afadf6"
+  },
+  "firstName": "Zack",
+  "lastName": "Zaun",
+  "userName": "zZaun",
+  "password": "autumn",
+  "userImage": "guy.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1686841568391"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1686841568391"
+    }
+  },
+  "__v": 0
+}]

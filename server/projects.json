@@ -1,0 +1,1145 @@
+[{
+  "_id": {
+    "$oid": "648a18b029ae6e708d54b4fb"
+  },
+  "projectName": "Michelle and Eric's Weddings",
+  "projectLocation": "Sedona",
+  "projectedCompleteDate": {
+    "$date": {
+      "$numberLong": "1709164800000"
+    }
+  },
+  "budget": 5000,
+  "actualCompletedDate": {
+    "date": null,
+    "completedBy": ""
+  },
+  "taskList": [],
+  "projectImages": [],
+  "projectOwner": "dredre",
+  "projectHelpers": [
+    "mMetz",
+    "eMetz",
+    "aSimmons",
+    "bDooley"
+  ],
+  "projectStart": {
+    "$date": {
+      "$numberLong": "1686771888795"
+    }
+  },
+  "milestones": [
+    {
+      "milestoneName": "Save the Date Photos",
+      "milestoneVendor": "Vista Print",
+      "milestoneBudget": 100,
+      "milestoneActualCost": 0,
+      "notes": [],
+      "completedDate": null,
+      "completedBy": "",
+      "_id": {
+        "$oid": "648a273f29ae6e708d54b886"
+      }
+    },
+    {
+      "milestoneName": "Order Flowers",
+      "milestoneVendor": "Safeway",
+      "milestoneBudget": 200,
+      "milestoneActualCost": 0,
+      "notes": [],
+      "completedDate": null,
+      "completedBy": "",
+      "_id": {
+        "$oid": "648a275429ae6e708d54b892"
+      }
+    },
+    {
+      "milestoneName": "Find Venue",
+      "milestoneActualCost": 0,
+      "notes": [
+        {
+          "note": "We need to get on this ASAP",
+          "user": "dredre",
+          "image": "dre.jpg",
+          "dateAdded": {
+            "$date": {
+              "$numberLong": "1686851150995"
+            }
+          },
+          "_id": {
+            "$oid": "648b4e4fad7044c62568e295"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "648b4e4fad7044c62568e294"
+      }
+    },
+    {
+      "milestoneName": "Get the Dress",
+      "milestoneBudget": 100,
+      "milestoneActualCost": 100,
+      "notes": [
+        {
+          "note": "Michelle already has the dress",
+          "user": "dredre",
+          "image": "dre.jpg",
+          "_id": {
+            "$oid": "648a278b29ae6e708d54b8cf"
+          }
+        }
+      ],
+      "completedDate": {
+        "$date": {
+          "$numberLong": "1686775700532"
+        }
+      },
+      "completedBy": "dredre",
+      "_id": {
+        "$oid": "648a279429ae6e708d54b8e8"
+      }
+    },
+    {
+      "milestoneName": "Get the Cake",
+      "milestoneVendor": "300",
+      "milestoneActualCost": 0,
+      "notes": [],
+      "_id": {
+        "$oid": "648b451cad7044c62568de65"
+      }
+    },
+    {
+      "milestoneName": "Take save the date photos",
+      "milestoneVendor": "Self",
+      "milestoneBudget": 0,
+      "milestoneActualCost": 0,
+      "notes": [],
+      "completedDate": null,
+      "completedBy": "",
+      "_id": {
+        "$oid": "648b4ce7ad7044c62568e0c1"
+      }
+    }
+  ],
+  "commentSection": [
+    {
+      "comment": "Are you free Saturday to go take pictures?",
+      "userName": "dredre",
+      "userImage": "dre.jpg",
+      "commentDate": {
+        "$date": {
+          "$numberLong": "1686772393263"
+        }
+      },
+      "_id": {
+        "$oid": "648a1aa929ae6e708d54b5a5"
+      }
+    },
+    {
+      "comment": "Yes that sounds perfect...how about 10am",
+      "userName": "mMetz",
+      "userImage": "shell.jpg",
+      "commentDate": {
+        "$date": {
+          "$numberLong": "1686776023676"
+        }
+      },
+      "_id": {
+        "$oid": "648a28d729ae6e708d54b97a"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1686771888799"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1686855828256"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648a27b829ae6e708d54b8f8"
+  },
+  "projectName": "Tanner and Sarah's Wedding",
+  "projectLocation": "Not sure yet",
+  "projectedCompleteDate": {
+    "$date": {
+      "$numberLong": "1727136000000"
+    }
+  },
+  "budget": 8000,
+  "actualCompletedDate": {
+    "date": null,
+    "completedBy": ""
+  },
+  "taskList": [],
+  "projectImages": [],
+  "projectOwner": "dredre",
+  "projectHelpers": [
+    "sCaron",
+    "tanman",
+    "aSimmons"
+  ],
+  "projectStart": {
+    "$date": {
+      "$numberLong": "1686775736240"
+    }
+  },
+  "milestones": [
+    {
+      "milestoneName": "Take save the date photos",
+      "milestoneVendor": "",
+      "milestoneBudget": 0,
+      "milestoneActualCost": 0,
+      "notes": [],
+      "completedDate": null,
+      "completedBy": "",
+      "_id": {
+        "$oid": "648a27e929ae6e708d54b8fd"
+      }
+    },
+    {
+      "milestoneName": "Order the Cake",
+      "milestoneVendor": "Bashas",
+      "milestoneBudget": 300,
+      "milestoneActualCost": 0,
+      "notes": [
+        {
+          "user": "dredre",
+          "image": "dre.jpg",
+          "_id": {
+            "$oid": "648a282829ae6e708d54b91f"
+          }
+        }
+      ],
+      "completedDate": null,
+      "completedBy": "",
+      "_id": {
+        "$oid": "648a282829ae6e708d54b91e"
+      }
+    },
+    {
+      "milestoneName": "Get the Dress",
+      "milestoneVendor": "David's Bridal",
+      "milestoneBudget": 300,
+      "milestoneActualCost": 0,
+      "notes": [
+        {
+          "user": "dredre",
+          "image": "dre.jpg",
+          "_id": {
+            "$oid": "648a283629ae6e708d54b932"
+          }
+        }
+      ],
+      "completedDate": null,
+      "completedBy": "",
+      "_id": {
+        "$oid": "648a283629ae6e708d54b931"
+      }
+    },
+    {
+      "milestoneName": "Find Venue",
+      "milestoneVendor": "",
+      "milestoneBudget": 2000,
+      "milestoneActualCost": 0,
+      "notes": [
+        {
+          "note": "I think we should check out Junipine",
+          "user": "dredre",
+          "image": "dre.jpg",
+          "_id": {
+            "$oid": "648a285129ae6e708d54b949"
+          }
+        }
+      ],
+      "completedDate": null,
+      "completedBy": "",
+      "_id": {
+        "$oid": "648a285129ae6e708d54b948"
+      }
+    },
+    {
+      "milestoneName": "Order Flowers",
+      "milestoneBudget": 300,
+      "milestoneActualCost": 300,
+      "notes": [
+        {
+          "user": "dredre",
+          "image": "dre.jpg",
+          "_id": {
+            "$oid": "648a281829ae6e708d54b910"
+          }
+        }
+      ],
+      "completedDate": {
+        "$date": {
+          "$numberLong": "1686855512588"
+        }
+      },
+      "completedBy": "dredre",
+      "_id": {
+        "$oid": "648b5f58ad7044c62568e579"
+      }
+    },
+    {
+      "milestoneName": "Save the Date Photos",
+      "milestoneBudget": 100,
+      "milestoneActualCost": 100,
+      "notes": [],
+      "completedDate": {
+        "$date": {
+          "$numberLong": "1686855902203"
+        }
+      },
+      "completedBy": "dredre",
+      "_id": {
+        "$oid": "648b60dead7044c62568e64b"
+      }
+    }
+  ],
+  "commentSection": [
+    {
+      "comment": "Here is the link to go check out Junipine. www.junipineresort.com",
+      "userName": "dredre",
+      "userImage": "dre.jpg",
+      "commentDate": {
+        "$date": {
+          "$numberLong": "1686775910904"
+        }
+      },
+      "_id": {
+        "$oid": "648a286629ae6e708d54b957"
+      }
+    },
+    {
+      "comment": "Oh I really like Junipine for the pictures",
+      "userName": "tanman",
+      "userImage": "tanner.jpg",
+      "_id": {
+        "$oid": "648a28a429ae6e708d54b968"
+      },
+      "commentDate": {
+        "$date": {
+          "$numberLong": "1686775972405"
+        }
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1686775736240"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1686855902213"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648a291129ae6e708d54b98b"
+  },
+  "projectName": "Turf the Yard",
+  "projectLocation": "Left side of the yard",
+  "projectedCompleteDate": {
+    "$date": {
+      "$numberLong": "1685923200000"
+    }
+  },
+  "budget": 0,
+  "actualCompletedDate": {
+    "date": null,
+    "completedBy": ""
+  },
+  "taskList": [],
+  "projectImages": [],
+  "projectOwner": "tanman",
+  "projectHelpers": [
+    "sCaron",
+    "dredre"
+  ],
+  "projectStart": {
+    "$date": {
+      "$numberLong": "1686776081991"
+    }
+  },
+  "milestones": [
+    {
+      "milestoneName": "Pick the kind of turf",
+      "milestoneVendor": "",
+      "milestoneBudget": null,
+      "milestoneActualCost": 0,
+      "completedDate": null,
+      "completedBy": "",
+      "_id": {
+        "$oid": "648b25c088bd367f96afad72"
+      }
+    },
+    {
+      "milestoneName": "Order the Turf",
+      "milestoneVendor": "",
+      "milestoneBudget": 1200,
+      "milestoneActualCost": 0,
+      "completedDate": null,
+      "completedBy": "",
+      "_id": {
+        "$oid": "648b25d988bd367f96afad79"
+      }
+    },
+    {
+      "milestoneName": "Get sand to pound into the turf",
+      "milestoneVendor": "Home Depot",
+      "milestoneBudget": 150,
+      "milestoneActualCost": 0,
+      "completedDate": null,
+      "completedBy": "",
+      "_id": {
+        "$oid": "648b25f088bd367f96afad84"
+      }
+    },
+    {
+      "milestoneName": "Get the yard ready to put down the turf",
+      "milestoneVendor": "",
+      "milestoneBudget": null,
+      "milestoneActualCost": 0,
+      "completedDate": null,
+      "completedBy": "",
+      "_id": {
+        "$oid": "648b260588bd367f96afad93"
+      }
+    }
+  ],
+  "commentSection": [
+    {
+      "comment": "Sarah did you like the color and texture of the turf sample I left?",
+      "userName": "tanman",
+      "userImage": "tanner.jpg",
+      "commentDate": {
+        "$date": {
+          "$numberLong": "1686840868476"
+        }
+      },
+      "_id": {
+        "$oid": "648b262488bd367f96afad9e"
+      }
+    },
+    {
+      "comment": "Mom will you be around on Wednesday, I need someone to be at the house for the delivery of the turf",
+      "userName": "tanman",
+      "userImage": "tanner.jpg",
+      "_id": {
+        "$oid": "648b263f88bd367f96afadaa"
+      },
+      "commentDate": {
+        "$date": {
+          "$numberLong": "1686840895134"
+        }
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1686776081991"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1686840895134"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648b268888bd367f96afadb6"
+  },
+  "projectName": "Build a dog house",
+  "projectLocation": "Back right corner of the yard",
+  "projectedCompleteDate": {
+    "$date": {
+      "$numberLong": "1719100800000"
+    }
+  },
+  "budget": 100,
+  "actualCompletedDate": {
+    "date": null,
+    "completedBy": ""
+  },
+  "taskList": [],
+  "projectImages": [],
+  "projectOwner": "tanman",
+  "projectHelpers": [
+    "sCaron"
+  ],
+  "projectStart": {
+    "$date": {
+      "$numberLong": "1686840968263"
+    }
+  },
+  "milestones": [
+    {
+      "milestoneName": "Get materials ",
+      "milestoneVendor": "Home Depot",
+      "milestoneBudget": 50,
+      "milestoneActualCost": 0,
+      "notes": [],
+      "completedDate": null,
+      "completedBy": "",
+      "_id": {
+        "$oid": "648b26c588bd367f96afadc0"
+      }
+    },
+    {
+      "milestoneName": "Research how to on youTube",
+      "milestoneActualCost": 0,
+      "notes": [
+        {
+          "note": "I like this one the best www.trophydoghouse.com",
+          "user": "tanman",
+          "image": "tanner.jpg",
+          "dateAdded": {
+            "$date": {
+              "$numberLong": "1686854746915"
+            }
+          },
+          "_id": {
+            "$oid": "648b5c5aad7044c62568e55e"
+          }
+        }
+      ],
+      "completedDate": {
+        "$date": {
+          "$numberLong": "1686854758622"
+        }
+      },
+      "completedBy": "tanman",
+      "_id": {
+        "$oid": "648b5c66ad7044c62568e566"
+      }
+    }
+  ],
+  "commentSection": [
+    {
+      "comment": "Sarah here is a link to the styles I am thinking..let me know which one you think we should do",
+      "userName": "tanman",
+      "userImage": "tanner.jpg",
+      "_id": {
+        "$oid": "648b26fa88bd367f96afadc7"
+      },
+      "commentDate": {
+        "$date": {
+          "$numberLong": "1686841082461"
+        }
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1686840968267"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1686854758627"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648b276f88bd367f96afadcf"
+  },
+  "projectName": "Air BNB Cornville",
+  "projectLocation": "Mel Glo Estates",
+  "projectedCompleteDate": {
+    "$date": {
+      "$numberLong": "664405225200000"
+    }
+  },
+  "budget": 20000,
+  "actualCompletedDate": {
+    "date": null,
+    "completedBy": ""
+  },
+  "taskList": [],
+  "projectImages": [],
+  "projectOwner": "jConnolly",
+  "projectHelpers": [
+    "dredre",
+    "cConnolly"
+  ],
+  "projectStart": {
+    "$date": {
+      "$numberLong": "1686841199677"
+    }
+  },
+  "milestones": [
+    {
+      "milestoneName": "Remodel Kitchen",
+      "milestoneVendor": "3000",
+      "milestoneActualCost": 0,
+      "notes": [
+        {
+          "note": "I think you could sand and refinish the cabinets, new counter-tops and sink.",
+          "user": "dredre",
+          "image": "dre.jpg",
+          "dateAdded": {
+            "$date": {
+              "$numberLong": "1686860797705"
+            }
+          },
+          "_id": {
+            "$oid": "648b73fdac048db7d0d60ed5"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "648b73fdac048db7d0d60ed4"
+      }
+    }
+  ],
+  "commentSection": [
+    {
+      "comment": "Dre can you come on Thursday to do a walk through with me?",
+      "userName": "jConnolly",
+      "userImage": "jill.jpg",
+      "commentDate": {
+        "$date": {
+          "$numberLong": "1686841266044"
+        }
+      },
+      "_id": {
+        "$oid": "648b27b288bd367f96afadd3"
+      }
+    },
+    {
+      "comment": "Yes, I will come around 9am",
+      "userName": "dredre",
+      "userImage": "dre.jpg",
+      "_id": {
+        "$oid": "648b73b3ac048db7d0d60ecf"
+      },
+      "commentDate": {
+        "$date": {
+          "$numberLong": "1686860723251"
+        }
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1686841199677"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1686860797714"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648b285288bd367f96afaddd"
+  },
+  "projectName": "Popsicle Truck",
+  "projectLocation": "Hawaii",
+  "projectedCompleteDate": {
+    "$date": {
+      "$numberLong": "1719792000000"
+    }
+  },
+  "budget": 5000,
+  "actualCompletedDate": {
+    "date": null,
+    "completedBy": ""
+  },
+  "taskList": [],
+  "projectImages": [],
+  "projectOwner": "aZaun",
+  "projectHelpers": [
+    "",
+    "zZaun"
+  ],
+  "projectStart": {
+    "$date": {
+      "$numberLong": "1686841426611"
+    }
+  },
+  "milestones": [
+    {
+      "milestoneName": "Find a truck",
+      "milestoneVendor": "3000",
+      "milestoneActualCost": 0,
+      "notes": [],
+      "_id": {
+        "$oid": "648b4f6bad7044c62568e328"
+      }
+    },
+    {
+      "milestoneName": "Order Supplies",
+      "milestoneVendor": "",
+      "milestoneBudget": 500,
+      "milestoneActualCost": 0,
+      "notes": [],
+      "completedDate": null,
+      "completedBy": "",
+      "_id": {
+        "$oid": "648b298488bd367f96afae31"
+      }
+    },
+    {
+      "milestoneName": "Try out Recipes",
+      "milestoneBudget": null,
+      "milestoneActualCost": 15,
+      "notes": [],
+      "completedDate": {
+        "$date": {
+          "$numberLong": "1686854569030"
+        }
+      },
+      "completedBy": "aZaun",
+      "_id": {
+        "$oid": "648b5ba9ad7044c62568e3ce"
+      }
+    }
+  ],
+  "commentSection": [
+    {
+      "comment": "Zack I saw a truck for sale on facebook lets go look at it tomorrow",
+      "userName": "aZaun",
+      "userImage": "autumn.jpg",
+      "commentDate": {
+        "$date": {
+          "$numberLong": "1686841504484"
+        }
+      },
+      "_id": {
+        "$oid": "648b28a088bd367f96afadee"
+      }
+    },
+    {
+      "comment": "Yes, lets go later today",
+      "userName": "zZaun",
+      "userImage": "guy.jpg",
+      "commentDate": {
+        "$date": {
+          "$numberLong": "1686841847674"
+        }
+      },
+      "_id": {
+        "$oid": "648b29f788bd367f96afaeb5"
+      }
+    },
+    {
+      "comment": "I want us to test some of your recipes tomorrow does that work for you",
+      "userName": "zZaun",
+      "userImage": "guy.jpg",
+      "commentDate": {
+        "$date": {
+          "$numberLong": "1686841868795"
+        }
+      },
+      "_id": {
+        "$oid": "648b2a0c88bd367f96afaec1"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1686841426611"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1686854569037"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648b2b0588bd367f96afaf3e"
+  },
+  "projectName": "Paint Surf Board for Scott",
+  "projectLocation": "Garage",
+  "projectedCompleteDate": {
+    "$date": {
+      "$numberLong": "1734220800000"
+    }
+  },
+  "budget": 500,
+  "actualCompletedDate": {
+    "date": null,
+    "completedBy": ""
+  },
+  "taskList": [],
+  "projectImages": [],
+  "projectOwner": "zZaun",
+  "projectHelpers": [],
+  "projectStart": {
+    "$date": {
+      "$numberLong": "1686842117067"
+    }
+  },
+  "milestones": [
+    {
+      "milestoneName": "Buy paints and supplies",
+      "milestoneVendor": "",
+      "milestoneBudget": 50,
+      "milestoneActualCost": 0,
+      "notes": [
+        {
+          "user": "zZaun",
+          "image": "",
+          "_id": {
+            "$oid": "648b2b3088bd367f96afaf48"
+          }
+        }
+      ],
+      "completedDate": null,
+      "completedBy": "",
+      "_id": {
+        "$oid": "648b2b3088bd367f96afaf47"
+      }
+    },
+    {
+      "milestoneName": "Buy surf board",
+      "milestoneBudget": 100,
+      "milestoneActualCost": 100,
+      "notes": [
+        {
+          "user": "zZaun",
+          "image": "",
+          "_id": {
+            "$oid": "648b2b1988bd367f96afaf41"
+          }
+        }
+      ],
+      "completedDate": {
+        "$date": {
+          "$numberLong": "1686842177216"
+        }
+      },
+      "completedBy": "zZaun",
+      "_id": {
+        "$oid": "648b2b4188bd367f96afaf50"
+      }
+    },
+    {
+      "milestoneName": "Create Design",
+      "milestoneVendor": "",
+      "milestoneBudget": null,
+      "milestoneActualCost": 0,
+      "notes": [
+        {
+          "user": "zZaun",
+          "image": "",
+          "_id": {
+            "$oid": "648b2b4e88bd367f96afaf5c"
+          }
+        }
+      ],
+      "completedDate": null,
+      "completedBy": "",
+      "_id": {
+        "$oid": "648b2b4e88bd367f96afaf5b"
+      }
+    },
+    {
+      "milestoneName": "Start creating master piece",
+      "milestoneVendor": "",
+      "milestoneBudget": 350,
+      "milestoneActualCost": 0,
+      "notes": [
+        {
+          "user": "zZaun",
+          "image": "",
+          "_id": {
+            "$oid": "648b2b7288bd367f96afaf6b"
+          }
+        }
+      ],
+      "completedDate": null,
+      "completedBy": "",
+      "_id": {
+        "$oid": "648b2b7288bd367f96afaf6a"
+      }
+    }
+  ],
+  "commentSection": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1686842117068"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1686842226968"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648b2b9c88bd367f96afaf76"
+  },
+  "projectName": "Build Garden",
+  "projectLocation": "backyard",
+  "projectedCompleteDate": {
+    "$date": {
+      "$numberLong": "1695513600000"
+    }
+  },
+  "budget": 200,
+  "actualCompletedDate": {
+    "date": null,
+    "completedBy": ""
+  },
+  "taskList": [],
+  "projectImages": [],
+  "projectOwner": "mMetz",
+  "projectHelpers": [
+    "dredre",
+    "eMetz"
+  ],
+  "projectStart": {
+    "$date": {
+      "$numberLong": "1686842268266"
+    }
+  },
+  "milestones": [
+    {
+      "milestoneName": "Buy materials ",
+      "milestoneVendor": "",
+      "milestoneBudget": 75,
+      "milestoneActualCost": 0,
+      "completedDate": null,
+      "completedBy": "",
+      "_id": {
+        "$oid": "648b2bbd88bd367f96afaf81"
+      }
+    },
+    {
+      "milestoneName": "Buy plants",
+      "milestoneVendor": "",
+      "milestoneBudget": 50,
+      "milestoneActualCost": 0,
+      "completedDate": null,
+      "completedBy": "",
+      "_id": {
+        "$oid": "648b2bcf88bd367f96afaf8c"
+      }
+    },
+    {
+      "milestoneName": "Research how on YouTube",
+      "milestoneBudget": null,
+      "milestoneActualCost": 0,
+      "completedDate": {
+        "$date": {
+          "$numberLong": "1686843605404"
+        }
+      },
+      "completedBy": "eMetz",
+      "_id": {
+        "$oid": "648b30d588bd367f96afb25d"
+      }
+    }
+  ],
+  "commentSection": [
+    {
+      "comment": "Eric check out this link of the style I am thinking to go with www.gardenideas.com/raised",
+      "userName": "mMetz",
+      "userImage": "shell.jpg",
+      "commentDate": {
+        "$date": {
+          "$numberLong": "1686842367178"
+        }
+      },
+      "_id": {
+        "$oid": "648b2bff88bd367f96afaf95"
+      }
+    },
+    {
+      "comment": "That looks perfect!!!! ",
+      "userName": "eMetz",
+      "userImage": "eric.jpg",
+      "_id": {
+        "$oid": "648b30c988bd367f96afb24f"
+      },
+      "commentDate": {
+        "$date": {
+          "$numberLong": "1686843593927"
+        }
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1686842268266"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1686843605414"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648b2c5488bd367f96afaf9f"
+  },
+  "projectName": "Turn garage into a Gym",
+  "projectLocation": "Garage",
+  "projectedCompleteDate": {
+    "$date": {
+      "$numberLong": "1688083200000"
+    }
+  },
+  "budget": 200,
+  "actualCompletedDate": {
+    "date": null,
+    "completedBy": ""
+  },
+  "taskList": [],
+  "projectImages": [],
+  "projectOwner": "eMetz",
+  "projectHelpers": [
+    "mMetz"
+  ],
+  "projectStart": {
+    "$date": {
+      "$numberLong": "1686842452106"
+    }
+  },
+  "milestones": [
+    {
+      "milestoneName": "Flex seal the floor",
+      "milestoneVendor": "",
+      "milestoneBudget": 100,
+      "milestoneActualCost": 0,
+      "notes": [
+        {
+          "user": "eMetz",
+          "image": "eric.jpg",
+          "_id": {
+            "$oid": "648b2c9088bd367f96afafaa"
+          }
+        }
+      ],
+      "completedDate": null,
+      "completedBy": "",
+      "_id": {
+        "$oid": "648b2c9088bd367f96afafa9"
+      }
+    },
+    {
+      "milestoneName": "Find mirrors",
+      "milestoneVendor": "",
+      "milestoneBudget": 50,
+      "milestoneActualCost": 0,
+      "notes": [
+        {
+          "user": "eMetz",
+          "image": "eric.jpg",
+          "_id": {
+            "$oid": "648b2c9b88bd367f96afafb5"
+          }
+        }
+      ],
+      "completedDate": null,
+      "completedBy": "",
+      "_id": {
+        "$oid": "648b2c9b88bd367f96afafb4"
+      }
+    },
+    {
+      "milestoneName": "Clean out the garage",
+      "milestoneBudget": null,
+      "milestoneActualCost": 0,
+      "notes": [
+        {
+          "user": "eMetz",
+          "image": "eric.jpg",
+          "_id": {
+            "$oid": "648b2c7188bd367f96afafa3"
+          }
+        }
+      ],
+      "completedDate": {
+        "$date": {
+          "$numberLong": "1686842544230"
+        }
+      },
+      "completedBy": "eMetz",
+      "_id": {
+        "$oid": "648b2cb088bd367f96afafca"
+      }
+    }
+  ],
+  "commentSection": [
+    {
+      "comment": "Michelle can you look for a mirror at Home Depot when you go next time",
+      "userName": "eMetz",
+      "userImage": "eric.jpg",
+      "_id": {
+        "$oid": "648b2ca388bd367f96afafbd"
+      },
+      "commentDate": {
+        "$date": {
+          "$numberLong": "1686842531066"
+        }
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1686842452106"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1686842544240"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648b310b88bd367f96afb269"
+  },
+  "projectName": "Build Family Hub Home",
+  "projectLocation": "Lot next to Michelle",
+  "projectedCompleteDate": {
+    "$date": {
+      "$numberLong": "1816300800000"
+    }
+  },
+  "budget": 300000,
+  "actualCompletedDate": {
+    "date": null,
+    "completedBy": ""
+  },
+  "taskList": [],
+  "projectImages": [],
+  "projectOwner": "dredre",
+  "projectHelpers": [],
+  "projectStart": {
+    "$date": {
+      "$numberLong": "1686843659129"
+    }
+  },
+  "milestones": [],
+  "commentSection": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1686843659130"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1686843659130"
+    }
+  },
+  "__v": 0
+}]
